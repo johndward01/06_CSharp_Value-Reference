@@ -1,0 +1,14 @@
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\bin\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.exe
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\bin\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.deps.json
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\bin\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.runtimeconfig.json
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\bin\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\bin\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.dll
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\bin\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.pdb
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\obj\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\obj\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\obj\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\obj\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\obj\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\obj\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.dll
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\obj\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.pdb
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-and-Reference-Type-Demo\Value-and-Reference-Type-Demo\obj\Debug\netcoreapp3.1\Value-and-Reference-Type-Demo.genruntimeconfig.cache

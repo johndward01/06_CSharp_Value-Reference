@@ -14,7 +14,7 @@ namespace ChristmasWithTypes
             xmas.Santa = "Kris Kringle";
 
             //TODO Insert 3 presents you would like for xmas.  They must be strings
-            xmas.Presents =  new string[3]{"PS5","RTX-2080TI", "CyberPunk 2077 Preorder" }; 
+            xmas.Presents =  new string[3]{"PS5","RTX-2080TI", "Battlefield 2042" }; 
 
             //TODO Set the TreeHeight to 10
             xmas.TreeHeight = 10;
