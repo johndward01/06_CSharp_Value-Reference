@@ -34,6 +34,9 @@ namespace ValueAndReferenceTypesDemo
 
             // ------Value Type--------
 
+            string firstName = "John";
+            Console.WriteLine(firstName);
+
             //int x = 10;
             //int y = x;
             //y++;
