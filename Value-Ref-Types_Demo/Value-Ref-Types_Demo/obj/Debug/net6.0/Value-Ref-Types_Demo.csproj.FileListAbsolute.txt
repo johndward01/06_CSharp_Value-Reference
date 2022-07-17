@@ -1,0 +1,15 @@
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\bin\Debug\net6.0\Value-Ref-Types_Demo.exe
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\bin\Debug\net6.0\Value-Ref-Types_Demo.deps.json
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\bin\Debug\net6.0\Value-Ref-Types_Demo.runtimeconfig.json
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\bin\Debug\net6.0\Value-Ref-Types_Demo.dll
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\bin\Debug\net6.0\Value-Ref-Types_Demo.pdb
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\Value-Ref-Types_Demo.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\Value-Ref-Types_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\Value-Ref-Types_Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\Value-Ref-Types_Demo.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\Value-Ref-Types_Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\Value-Ref-Types_Demo.dll
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\refint\Value-Ref-Types_Demo.dll
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\Value-Ref-Types_Demo.pdb
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\Value-Ref-Types_Demo.genruntimeconfig.cache
+C:\Users\johnd\Desktop\Repos\06_CSharp_Value-Reference\Value-Ref-Types_Demo\Value-Ref-Types_Demo\obj\Debug\net6.0\ref\Value-Ref-Types_Demo.dll
